@@ -1,0 +1,2 @@
+# ArsMagicaCM
+Ars Magica CM
